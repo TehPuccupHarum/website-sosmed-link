@@ -1,0 +1,91 @@
+/* instagram start */
+.link > instagram {
+  text-decoration: none;
+  color: #222;
+  font-size: 24px;
+  text-align: center;
+  border: 3px solid #222;
+  background-color: #eaeaea;
+  border-radius: 7px;
+  margin: 15px 10px;
+  padding: 10px;
+  text-transform: uppercase;
+  font-weight: 500;
+  animation: lightSpeedInLeft;
+  animation-duration: 2s;
+}
+
+.link > instagram:hover {
+  background-color: rgb(251, 57, 88);
+  border: 3px solid rgb(255, 255, 255);
+}
+/* instagram end */
+
+/* twitter start */
+.link > twitter {
+  text-decoration: none;
+  color: #222;
+  font-size: 24px;
+  text-align: center;
+  border: 3px solid #222;
+  background-color: #eaeaea;
+  border-radius: 7px;
+  margin: 15px 10px;
+  padding: 10px;
+  text-transform: uppercase;
+  font-weight: 500;
+  animation: lightSpeedInRight;
+  animation-duration: 2s;
+}
+
+.link > twitter:hover {
+  background-color: rgb(29, 161, 242);
+  border: 3px solid rgb(255, 255, 255);
+}
+/* twitter end */
+
+/* facebook start */
+.link > facebook {
+  text-decoration: none;
+  color: #222;
+  font-size: 24px;
+  text-align: center;
+  border: 3px solid #222;
+  background-color: #eaeaea;
+  border-radius: 7px;
+  margin: 15px 10px;
+  padding: 10px;
+  text-transform: uppercase;
+  font-weight: 500;
+  animation: lightSpeedInLeft;
+  animation-duration: 2s;
+}
+
+.link > facebook:hover {
+  background-color: rgb(66 103 178);
+  border: 3px solid rgb(255, 255, 255);
+}
+/* facebook end */
+
+/* discord start */
+.link > discord {
+  text-decoration: none;
+  color: #222;
+  font-size: 24px;
+  text-align: center;
+  border: 3px solid #222;
+  background-color: #eaeaea;
+  border-radius: 7px;
+  margin: 15px 10px;
+  padding: 10px;
+  text-transform: uppercase;
+  font-weight: 500;
+  animation: lightSpeedInRight;
+  animation-duration: 2s;
+}
+
+.link > discord:hover {
+  background-color: rgb(88, 101, 242);
+  border: 3px solid rgb(255, 255, 255);
+}
+/* discord end */
